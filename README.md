@@ -1,5 +1,5 @@
 lehighFantasy
 =============
 
-dbUtilities contains scraping files
-server contains website python
+dbUtilities/ contains scraping files  
+server/ contains website python
